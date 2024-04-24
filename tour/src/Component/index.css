@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.sub_Container{
+    display: flex;
+}
+.iconStyle{
+    padding:25px;
+    color:skyblue
+}
