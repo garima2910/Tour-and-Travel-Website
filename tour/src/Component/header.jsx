@@ -15,7 +15,9 @@ const Header = () => {
             <li style={{padding:"10px"}}>Packages</li>
             <li style={{padding:"10px"}}>Contact</li>
         </ul>
-        <button style={{borderRadius:"2px"}}>Login</button>
+        <div style={{padding:"15px"}}>
+        <button style={{borderRadius:"15px",color:"white",backgroundColor:"#46B6F5" ,padding:"10px",width:"100px"}}>Login</button>
+        </div>
       </div>
     </div>
   );
